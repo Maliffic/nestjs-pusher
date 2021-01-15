@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-pusher",
+  "name": "@maliffic/nestjs-pusher",
   "version": "0.0.3",
   "description": "Pusher module for nestjs with support for event chunking and decorators",
   "author": "Underfisk",
