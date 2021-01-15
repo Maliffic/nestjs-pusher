@@ -5,7 +5,7 @@
   "author": "Underfisk",
   "private": false,
   "repository": {
-    "url": "https://github.com/underfisk/nestjs-pusher",
+    "url": "https://github.com/Maliffic/nestjs-pusher",
     "type": "git"
   },
   "main": "dist/index.js",
