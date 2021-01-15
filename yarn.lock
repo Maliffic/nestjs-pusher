@@ -3837,6 +3837,14 @@ neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
+"nestjs-pusher@https://github.com/Maliffic/nestjs-pusher":
+  version "0.0.3"
+  resolved "https://github.com/Maliffic/nestjs-pusher#718e0b8ae076466de9eff09384a21929ca8bb04c"
+  dependencies:
+    reflect-metadata "^0.1.13"
+    rimraf "^3.0.2"
+    rxjs "^6.6.3"
+
 nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
